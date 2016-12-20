@@ -1,4 +1,4 @@
-# Long-term_time_series_Retail_Price_Survey
+# long-term_time_series_retail_price_survey
 【和歌山県　長期時系列　小売物価統計調査です。】
 ◆小売物価統計調査（動向編）
 動向編では、毎月、県庁所在市を含む主要都市の物価を提供しています。
